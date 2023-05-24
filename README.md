@@ -12,12 +12,16 @@
 
 <h2>Esquemático</h2>
 
+<br>
+
 ![PWM](https://github.com/tamis2K/PWM/assets/90485488/8aa3a69b-2e3e-465c-8017-408244e5729c)
 
 
 <br>
 
-<h1>Código fonte</h1>
+<h2>Código fonte</h2>
+
+<br>
 
 ```javascript
 
@@ -60,6 +64,9 @@ void loop() {
   delay(50);
 }
 ```
+<br>
 
+<div>
 <h2>Funcionamento do projeto</h2>
 <p><strong>Usando o Vs code e sua extensão PlatformIO criamos um novo projeto e usamos o código em cima para cada vês que o botão for pressionado a velocidade do motor aumente até o máximo  e depois retorne  para velocidade inicial.</strong></p>
+</div>
